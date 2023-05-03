@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anadelccc
 - 👀 I’m interested in Webs.
-- 🌱 I’m currently learning HTML5, CSS, JavaScript, Bootstrap, Sass, Agile (Scrum, Kanban)...
+- 🌱 I’m currently learning React, Symfony, JavaScript, MySql, PHP HTML, CSS, Bootstrap, Sass, Agile (Scrum, Kanban)...
 - 💞️ I’m looking to collaborate with you ;)
 - 📫 How to reach me: ana9678@outlook.es
 
